@@ -357,7 +357,7 @@ body {
 }
 
 .about {
-    padding: 60px 0;
+    padding: 80px 0;
 }
 
 .section-header {
@@ -404,7 +404,7 @@ body {
 }
 
 .services {
-    padding: 60px 0;
+    padding: 80px 0;
     background: #f9fafb;
 }
 
@@ -475,30 +475,8 @@ body {
     left: 0;
     color: #1e3a8a;
 }
-
-/* .why {
-    padding: 60px 0;
-}
-
-.why-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
-}
-
-.why-card {
-    background: #f3f4f6;
-    padding: 30px;
-    border-radius: 14px;
-    transition: 0.3s;
-}
-
-.why-card:hover {
-    transform: translateY(-6px);
-} */
-
 .why-section {
-    padding: 60px 0;
+    padding: 80px 0;
     background: #f8fafc;
 }
 
@@ -589,7 +567,7 @@ body {
 }
 
 .contact-section {
-    padding: 60px 0;
+    padding: 80px 0;
     background: #f8fafc;
     text-align: center;
 }
